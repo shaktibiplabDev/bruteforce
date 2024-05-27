@@ -1,0 +1,4 @@
+cryptography==36.0.0
+python-telegram-bot==14.1
+reportlab==3.6.1
+
